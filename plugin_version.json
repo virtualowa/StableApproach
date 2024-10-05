@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "api.stableapproach.net",
+      "host": "crew.virtualowa.net",
       "target": "/report",
       "semver": {
         "min": "1.1.0",
@@ -14,7 +14,7 @@
       }
     },
     "aircraft_profiles":{
-      "use_custom": false,
+      "use_custom": true,
       "revert_to_default": true
     }
   }

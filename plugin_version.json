@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "https://crew.virtualowa.net",
+      "host": "crew.virtualowa.net",
       "target": "/dstable",
       "semver": {
         "min": "1.4.0-beta.4",
